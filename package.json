@@ -1,0 +1,31 @@
+{
+  "author": "Dennis Torres <djtorres0@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/psirenny/d-fastclick/issues"
+  },
+  "description": "A Derby JS FastClick component to remove click delay on touch browsers.",
+  "keywords": [
+    "component",
+    "delay",
+    "derby",
+    "fastclick",
+    "mobile",
+    "tap",
+    "touch"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "d-fastclick",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psirenny/d-fastclick.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "fastclick": "^1.0.3"
+  }
+}
