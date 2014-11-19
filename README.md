@@ -1,7 +1,7 @@
 Derby FastClick
 ===============
 
-A [Derby JS](http://derbyjs.com) [FastClick](https://github.com/ftlabs/fastclick) component to remove click delay on touch browsers.
+A [Derby JS](http://derbyjs.com) component for [FastClick](https://github.com/ftlabs/fastclick) to remove click delay on touch browsers.
 
 Installation
 ------------
