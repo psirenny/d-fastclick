@@ -4,7 +4,7 @@
     "url": "https://github.com/psirenny/d-fastclick/issues"
   },
   "dependencies": {
-    "fastclick": "^1.0.3"
+    "fastclick": "^1.0.6"
   },
   "description": "A Derby JS FastClick component to remove click delay on touch browsers.",
   "keywords": [
@@ -27,5 +27,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
